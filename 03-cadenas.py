@@ -8,7 +8,7 @@ print("el saludo es: %s %s " %(texto1,texto2))
 saludoFinal2="Saludo: {x} {y}".format(x=texto1, y=texto2)
 print(saludoFinal2)
 
-texto="Desarrollo Web Profesional Utl "
+texto="Desarrollo Web Profesional Utl"
 print(texto)
 print(texto.lower())
 print(texto.upper())
