@@ -1,0 +1,2 @@
+juan,10,90.00,cineco
+juan,8,81.60,efectivo
